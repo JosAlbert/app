@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.0">
-  <name>Aula Virtual 3.0</name>
+  <name>Moodle Mobile</name>
   <description>
-        App para el Aula Virtual 3.0 de la Universidad Continental
+        Moodle Mobile official app
     </description>
-  <author href="https://ucontinental.edu.pe/" email="soporteucvirtual@continental.edu.pe">
-        Universidad Continental
+  <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Mobile team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
